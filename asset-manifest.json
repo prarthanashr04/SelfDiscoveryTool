@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/SelfDiscoveryTool/static/css/main.01306cdb.css",
-    "main.js": "/SelfDiscoveryTool/static/js/main.d072a13f.js",
+    "main.js": "/SelfDiscoveryTool/static/js/main.2905ca27.js",
     "index.html": "/SelfDiscoveryTool/index.html",
     "main.01306cdb.css.map": "/SelfDiscoveryTool/static/css/main.01306cdb.css.map",
-    "main.d072a13f.js.map": "/SelfDiscoveryTool/static/js/main.d072a13f.js.map"
+    "main.2905ca27.js.map": "/SelfDiscoveryTool/static/js/main.2905ca27.js.map"
   },
   "entrypoints": [
     "static/css/main.01306cdb.css",
-    "static/js/main.d072a13f.js"
+    "static/js/main.2905ca27.js"
   ]
 }
