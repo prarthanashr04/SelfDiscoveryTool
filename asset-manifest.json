@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SelfDiscoveryTool/static/css/main.073c9b0a.css",
+    "main.js": "/SelfDiscoveryTool/static/js/main.4dcbc62e.js",
+    "static/js/787.36770a9f.chunk.js": "/SelfDiscoveryTool/static/js/787.36770a9f.chunk.js",
+    "static/media/logo.svg": "/SelfDiscoveryTool/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SelfDiscoveryTool/index.html",
+    "main.073c9b0a.css.map": "/SelfDiscoveryTool/static/css/main.073c9b0a.css.map",
+    "main.4dcbc62e.js.map": "/SelfDiscoveryTool/static/js/main.4dcbc62e.js.map",
+    "787.36770a9f.chunk.js.map": "/SelfDiscoveryTool/static/js/787.36770a9f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4dcbc62e.js"
+  ]
+}
